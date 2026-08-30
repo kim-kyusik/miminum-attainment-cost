@@ -205,6 +205,6 @@ attribution.
 
 ## Citation
 
-If you use this code (or the MAC method) in your work, please cite it --
-see [CITATION.cff](CITATION.cff). 
+If you use this code (or the MAC method) in your work, please cite it 
+> Kim, K., DeJohn, A., and Kan, W. (2026). Benchmark-Based Spatial Accessibility Metric: Minimum Attainment Cost (MAC) (version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22180822
 
