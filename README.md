@@ -1,4 +1,4 @@
-# Minimum Attainment Cost (MAC): A Demand-Adjusted Accessibility Metric
+# Minimum Attainment Cost (MAC): Benchmark-Based Accessibility Metric
 
 A lightweight, dependency-light toolkit for computing transportation
 accessibility from an origin-destination (OD) travel-time matrix, built
