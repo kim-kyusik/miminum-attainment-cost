@@ -2,7 +2,7 @@
 
 A lightweight, dependency-light toolkit for computing transportation
 accessibility from an origin-destination (OD) travel-time matrix, built
-around **Minimum Attainment Cost (MAC)** -- a demand-adjusted accessibility
+around **Minimum Attainment Cost (MAC)** -- a benchmark-based accessibility
 measure. Two conventional measures, shortest path and cumulative
 opportunity, are included alongside it as supporting building blocks and
 for comparison. 
@@ -192,10 +192,11 @@ for category, (source, benchmark) in category_config.items():
 
 ## Related Work
 
-| Type | Name                                                         | Description                                             |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| Code | [Adaptive OD Cost Matrix](https://github.com/kim-kyusik/adaptive-od-cost-matrix) | Computes the OD travel-time matrices used as input here |
-| Data | [GECC Dataverse](TBD)                                        | Published dataset files from this project               |
+| Type  | Name                                                         | Description                                             |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| Code  | [Adaptive OD Cost Matrix](https://github.com/kim-kyusik/adaptive-od-cost-matrix) | Computes the OD travel-time matrices used as input here |
+| Data  | [GECC Dataverse](TBD)                                        | Published dataset files from this project               |
+| Paper | TBD                                                          | TBD                                                     |
 
 ## License
 
